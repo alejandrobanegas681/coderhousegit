@@ -1,0 +1,15 @@
+$color1:#A1F2E5;
+$color2:#50D7F2;
+$color3:#F5E05B;
+$fuentetitulos:"Fascinate Inline", system-ui;
+$fuentesubtitulos: "Bebas Neue", sans-serif;
+
+header{
+    background-color: $color1;
+    font-family: $fuentetitulos;
+    display:flex;
+    text-align: center;
+}
+h1,h2,h3{
+    font-family: $fuentetitulos;
+}

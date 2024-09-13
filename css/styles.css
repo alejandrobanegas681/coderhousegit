@@ -1,0 +1,12 @@
+header {
+  background-color: #A1F2E5;
+  font-family: "Fascinate Inline", system-ui;
+  display: flex;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-family: "Fascinate Inline", system-ui;
+}
+
+/*# sourceMappingURL=styles.css.map */
